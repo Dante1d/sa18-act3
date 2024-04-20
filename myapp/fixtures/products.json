@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "Lay's",
+            "price": "3.00",
+            "description": "Lay's Potato Chips are a popular snack known for their crispy texture and savory flavor. Made from thinly sliced potatoes that are fried and seasoned to perfection, these chips are a classic choice for satisfying crunchy cravings. Whether enjoyed on their own or paired with your favorite dip, Lay's Potato Chips are a delicious snack option for any occasion."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "Doritos",
+            "price": "4.00",
+            "description": "Doritos are a brand of flavored tortilla chips known for their bold and zesty taste. These triangular-shaped chips are made from cornmeal and seasoned with a variety of spices, creating a crunchy and flavorful snack experience. Doritos come in a range of flavors, from classic Nacho Cheese to spicy options like Flamin' Hot. Whether enjoyed on their own or used as a dipper for salsa or guacamole, Doritos are a popular choice for those craving a bold and satisfying snack."
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "Cheetos",
+            "price": "3.98",
+            "description": "Cheetos are a type of cheese-flavored puffed cornmeal snack known for their light and crunchy texture. These snacks are popular for their distinctive cheese flavor, which comes from a special blend of seasonings. Cheetos are often enjoyed as a fun and satisfying snack option, with their bright orange color and cheesy taste appealing to both children and adults alike. Whether eaten straight out of the bag or used as a topping for dishes like macaroni and cheese, Cheetos are a flavorful and enjoyable snack choice."
+        }
+    }
+]
